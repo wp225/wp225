@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![](https://leetcard.jacoblin.cool/wp225?ext=heatmap)
---> 
 
 
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
 </div>
+--> 
+
 
 <img src="https://github.com/wp225/wp225/blob/main/cat-coding.jpg" alt="Sad cat codding">
 
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 
 ### A Data Scientist specializing in solving complex problems with Machine Learning and building robust software solutions around it—ohh, and I love automobiles!
 
-- 🌱 I’m currently learning **[Advanced Data Analytics]([https://blog.bytebytego.com/p/free-system-design-pdf-158-pages](https://www.coursera.org/professional-certificates/google-advanced-data-analytics))**
+- 🌱 I’m currently learning **[Advanced Data Analytics](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)**
 - 🤔 I’m looking for help with Recommendation Systems.
 
 
